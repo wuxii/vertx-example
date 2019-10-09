@@ -11,5 +11,6 @@
 [frame="topbot"]
 |===
 ^|Name | Type ^| Description
+|[[username]]`@username`|`String`|-
 |===
 
